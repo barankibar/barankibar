@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cost calculator for a local cloud provider**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Docker and NGINX**
 
 - 💬 Ask me about **React and Nodejs**
 
