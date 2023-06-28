@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@barankibarr](https://medium.com/@barankibarr)
 
-- 💬 Ask me about **React && Nodejs && GO**
+- 💬 Ask me about **React || Nodejs || GO**
 
 - 📫 How to reach me **barankibarr@outlook.com**
 
