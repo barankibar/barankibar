@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baran Kibar</h1>
 <h3 align="center">Highly motivated, Jr. Full-Stack Developer and very eager to learn.</h3>
 
-- 🔭 I’m currently working on **gRPC Tech**
+- 🔭 I’m currently working on **gRPC**
 
 - 🌱 I’m currently learning **Docker and gRPC Techs**
 
