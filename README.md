@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baran</h1>
-<h3 align="center">Highly motivated, Software Engineer and very eager to learn.</h3>
+<h3 align="center">Highly motivated, CKAD | Software Engineer and very eager to learn.</h3>
 
 - 🔭 I’m currently working on **RNG - Secure Vault**
 
