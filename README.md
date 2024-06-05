@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **RNG - Secure Vault**
 
-- 🌱 I’m currently learning for **CKAD - CKA - CKS**
+- 🌱 I’m currently learning for **CKA - CKS**
 
 - 📝 I regularly write articles on [https://medium.com/@barankibarr](https://medium.com/@barankibarr)
 
