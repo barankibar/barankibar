@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Baran</h1>
-<h3 align="center">Highly motivated, CKAD | Software Engineer</h3>
+<h3 align="center">Highly motivated, CKA | CKAD | Software Engineer</h3>
 
 - 🔭 I’m currently working on **RNG - Secure Vault**
 
-- 🌱 I’m currently learning for **CKA - CKS**
+- 🌱 I’m currently learning for **CKS**
 
 - 📝 I regularly write articles on [https://medium.com/@barankibarr](https://medium.com/@barankibarr)
 
