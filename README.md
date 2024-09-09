@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@barankibarr](https://medium.com/@barankibarr)
 
-- 💬 Ask me about **Go - NodeJS**
+- 💬 Ask me about **Go - CI/CD - Kubernetes**
 
 - 📫 How to reach me **barankibarr@outlook.com**
 
