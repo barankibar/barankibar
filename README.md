@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Baran</h1>
-<h3 align="center">Highly motivated, CKA | CKAD | Software Engineer at Servicepark</h3>
+<h3 align="center">Highly motivated, CKA | CKAD | SRE - Devops & Software Engineer</h3>
 
-- 🔭 I’m currently working on **MonitorPark Application**
+- 🔭 I’m currently working on **OpsITex**
 
-- 🌱 I’m currently learning for **Monitoring Tools**
+- 🌱 I’m currently learning for **Site Reliability**
 
 - 📝 I regularly write articles on [https://medium.com/@barankibarr](https://medium.com/@barankibarr)
 
